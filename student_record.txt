@@ -1,0 +1,11 @@
+name:- hasnain naqvi, roll number :- cs35,score :- 10 in science
+name:- hasnain naqvi, roll number :- cs35, score :- 6 in general knowledge
+name:- shayan zahid, roll number :- cs26, score:- 10 in science
+name:- taha hassan, roll number :- cs18, score :- 7 in general knowledge
+name:- abdur rehman, roll number :- cs107, score:- 5 in science
+name:- taha zahid, roll number :- cs16, score:- 9 in science
+name:- SYED ALI SHOZAB NAZAR NAQVI, roll number :- 100, score :- 6 in general knowledge
+name:- SYED ALI SHOZAB NAZAR NAQVI, roll number :- 100, score:- 4 in science
+name:- asdq, roll number :- qwe, score:- 0 in science
+name:- someone, roll number :- c123, score:- 7 in science
+name:- fdsg, roll number :- gfdf, score:- 0 in science
